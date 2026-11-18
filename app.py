@@ -25,7 +25,7 @@ PROVIDERS = {
     "Groq": {
         "base_url": "https://api.groq.com/openai/v1",
         "secret": "GROQ_API_KEY",
-        "default_model": "llama-3.3-70b-versatile",
+        "default_model": "qwen/qwen3.8-27b",
     },
     "OpenRouter": {
         "base_url": "https://openrouter.ai/api/v1",
